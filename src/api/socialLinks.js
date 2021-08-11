@@ -10,8 +10,8 @@ export const socialLinks = {
     description: ''
   },
   linkedin: {
-    username: 'Luis Alvarez',
-    url: 'https://www.linkedin.com/in/mrluisfer/',
+    username: 'Alec Campbell',
+    url: 'https://www.linkedin.com/in/doc22940/',
     description: 'Frontend Developer | React & NodeJs'
   },
   reddit: {
@@ -20,8 +20,8 @@ export const socialLinks = {
     description: ''
   },
   github: {
-    username: 'mrLuisFer',
-    url: 'https://github.com/mrLuisFer',
+    username: '22940dev',
+    url: 'https://github.com/22940dev',
     description: '⚛ Developing'
   },
   twitch: {
