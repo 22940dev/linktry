@@ -1,51 +1,36 @@
 export const socialLinks = {
-  twitter: {
-    username: '_mrLuisFer',
-    url: 'https://twitter.com/_mrLuisFer',
-    description: 'Student & Frontend Developer'
-  },
-  facebook: {
-    username: 'Luis Fer Alvarez',
-    url: 'https://www.facebook.com/mrLuisFer/',
-    description: ''
-  },
   linkedin: {
     username: 'Alec Campbell',
     url: 'https://www.linkedin.com/in/doc22940/',
     description: 'Frontend Developer | React & NodeJs'
-  },
-  reddit: {
-    username: 'mrLuisFer',
-    url: 'https://www.reddit.com/user/mrLuisFer',
-    description: ''
   },
   github: {
     username: '22940dev',
     url: 'https://github.com/22940dev',
     description: '⚛ Developing'
   },
-  twitch: {
-    username: '',
-    url: '',
-    description: ''
-  },
   portfolio: {
     username: 'My Portfolio',
-    url: 'https://mrluisfer.netlify.app/',
+    url: 'https://hugo-papermod-tags-v1.netlify.app/',
     description: 'Frontend Developer, specialized in Javascript & React for UI'
   },
+    twitter: {
+    username: 'Alec4354478',
+    url: 'https://twitter.com/Alec4354478',
+    description: 'Student & Frontend Developer'
+  },
   behance: {
-    username: 'mrLuisFer',
-    url: 'https://www.behance.net/luisalvarez28',
+    username: 'doc22940',
+    url: 'https://www.behance.net/doc22940',
     description: 'Just some designs :D'
   },
-  instagram: {
-    username: 'mrluisfer_',
-    url: 'https://www.instagram.com/mrluisfer_/',
+    reddit: {
+    username: 'doc22940',
+    url: 'https://www.reddit.com/user/22940',
     description: ''
   },
   cv: {
-    username: 'Luis Fernando Alvarez',
+    username: 'Alec B Campbell',
     url: '/luis-alvarez-cv.pdf',
     description:
       'If you are a recruiter or in case you want to contact me for a project you can download my CV'
