@@ -1,4 +1,4 @@
-import Avatar from '../assets/avatar.jpg'
+import Avatar from '../assets/drawkidglasses.PNG'
 
 export const userConfig = {
   avatar: Avatar,
