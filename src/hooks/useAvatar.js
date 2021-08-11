@@ -2,7 +2,7 @@ import { useCallback, useEffect, useState } from 'react'
 
 export const useAvatar = ({
   avatarUrl,
-  defaultImg = 'https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI'
+  defaultImg = 'https://res.cloudinary.com/ddb4kkgtw/image/upload/v1628707063/drawkidglasses.png'
 }) => {
   const [isLoading, setIsLoading] = useState(true)
   const [isErrorAvatarUrl, setIsErrorAvatarUrl] = useState(false)
